@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "company": "Instant Pot",
+        "position": "Executive Chef",
+        "start_date": "2012-01-01",
+        "end_date": null,
+        "name": "Christopher",
+        "photo": "https://images.unsplash.com/photo-1631212500544-e32a879267f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWYlMjBtYW4lMjBwaG90b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "dates": "Seafood Paella: Maria's seafood paella is a masterpiece of Spanish cuisine. She starts with a base of saffron-infused rice, then adds a variety of seafood, including shrimp, mussels, and squid, along with peppers, onions, and other vegetables. The result is a dish that is both hearty and elegant, with a perfect balance of flavors."
+    },
+    {
+        "id": 2,
+        "name": "William",
+        "company": "Crock-Pot",
+        "position": "Sous Chef",
+        "start_date": "2018-01-01",
+        "end_date": null,
+        "photo": "https://plus.unsplash.com/premium_photo-1663013666532-2fcfaab78430?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlZiUyMG1hbiUyMHBob3RvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "dates":"Beef Bourguignon: This classic French dish is one of Maria's specialties. She slow-cooks beef in red wine, along with carrots, onions, garlic, and other herbs and spices, until it is tender and flavorful. Served over a bed of mashed potatoes or egg noodles, it is a hearty and satisfying meal that is perfect for cooler weather."
+    },
+    {
+        "id": 3,
+        "name": "John",
+        "company": "KitchenAid",
+        "position": "Pastry Chef",
+        "start_date": "2023-01-01",
+        "end_date": null,
+        "photo": "https://images.unsplash.com/photo-1635081475877-42bf91706c6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2hlZiUyMG1hbiUyMHBob3RvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "dates":"Tiramisu: For dessert, Maria loves to make tiramisu, the classic Italian treat. Layers of ladyfingers soaked in espresso and liqueur are topped with a creamy mixture of mascarpone cheese, eggs, and sugar, and finished with a dusting of cocoa powder. The result is a dessert that is both light and indulgent, with a perfect balance of flavors and textures."
+    },
+    {
+        "id": 4,
+        "name": "Michael",
+        "company": "Hamilton Beach",
+        "position": "Line Cook",
+        "start_date": "2022-01-01",
+        "end_date": null,
+        "photo": "https://images.unsplash.com/photo-1572715376701-98568319fd0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "dates": "Sushi: Maria is a master of Japanese cuisine, and her sushi is among the best in the business. She uses only the freshest ingredients, including sushi-grade fish, and creates intricate rolls with a variety of flavors and textures. From spicy tuna to avocado and cucumber, Maria's sushi is a work of art."
+    },
+    {
+        "id": 5,
+        "name": "David",
+        "company": "Ninja",
+        "position": "Kitchen Manager",
+        "start_date": "2019-01-01",
+        "end_date": null,
+        "photo": "https://plus.unsplash.com/premium_photo-1673830185871-49bb8d6a3d09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "dates": "Grilled Vegetables: Maria loves to highlight the natural flavors of vegetables by grilling them to perfection. She uses a variety of colorful vegetables, including eggplant, zucchini, peppers, and onions, and seasons them with olive oil, garlic, and other herbs and spices. The result is a dish that is both healthy and delicious, with a perfect balance of smoky and sweet flavors."
+    },
+    {
+        "id": 6,
+        "name": "David",
+        "company": "Ninja",
+        "position": "Kitchen Manager",
+        "start_date": "2020-01-01",
+        "end_date": null,
+        "photo": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "dates":"Chicken Shawarma: Maria's chicken shawarma is a favorite among her customers. She marinates chicken in a blend of Middle Eastern spices, including cumin, coriander, and turmeric, then grills it to perfection. Served in a warm pita with hummus, tomatoes, and other toppings, it is a flavorful and satisfying meal that is perfect for lunch or dinner."
+    }
+]
