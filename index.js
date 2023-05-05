@@ -18,8 +18,15 @@ app.get('/chefdata', (req, res) => {
 
 app.get('/chefdata/:id', (req, res) => {
   const id = req.params.id;
-  const items = chefdata?.find(pd=>pd.id = id);
-  res.send({items})
+  if(parseInt(id)<=6){
+    const items = chefdata?.find(pd=>pd.id = id);
+    res.send({items})
+  }
+  else(
+    res.send({chefdata})
+  )
+  
+  
 });
 
 app.listen(port, () => {
